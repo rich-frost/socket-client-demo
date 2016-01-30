@@ -24,20 +24,35 @@ button {
 }
 
 .left-wrapper {
-    padding: 10px;
-    width: 25%;
+    width: 30%;
     height:100%;
-    background-color: #cccccc;
+    background-color: #ddd;
     float: left;
+    border-right: 2px #ccc solid;
 }
+
 .right-wrapper {
-    width: 75%;
+    width: 70%;
     height:100%;
     float: left;
 }
 
+/* Input panel */
+
+.input-header {
+    padding: 10px;
+}
+
+.input-controls {
+    margin: 10px;
+}
 
 /* Messages */
+
+.messages-header {
+    padding: 10px;
+    border-bottom: 2px #ccc solid;
+}
 
 #messages {
     list-style-type: none;
