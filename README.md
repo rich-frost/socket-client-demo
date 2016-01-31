@@ -21,7 +21,7 @@ node index
 
 ### Viewing in the browser
 
-Open your browser and navigate to localhost:3000
+Open your browser and navigate to [http:/localhost:3000](http:/localhost:3000)
 
 Click the buttons and confirmation messages will appear showing your actions.
 
